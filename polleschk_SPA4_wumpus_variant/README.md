@@ -1,8 +1,4 @@
-# CSC 2210, SPA 4: Dig Dug
-
-GitHub Link: https://github.com/polleschk/polleschk_SPA4_wumpus_variant.git
-
-# Dig Dug Game
+# CSC 2210, SPA 4: Dig Dug Game
 
 ## Overview
 
@@ -43,4 +39,5 @@ This project is a simple implementation of the classic Dig Dug game in C++. The 
 - [Kaiden](mailto:polleschk@msoe.edu) - Everything
     - Game Design and Implementation
     - Player and Enemy Movement
+
     - Ammo Collection and Firing Mechanism
